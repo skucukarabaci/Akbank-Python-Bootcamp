@@ -1,0 +1,15 @@
+ Please choose a Pizza Base:	
+1	Classic		110 TL
+2	Margherita	130 TL
+3	TurkPizza	130 TL
+4	PlainPizza	120 TL
+	
+Sauce of your choice:	
+11	Olives		80 TL
+12	Mushrooms	90 TL
+13	GoatCheese	95 TL
+14	Meat		100 TL
+15	Onions		55 TL
+16	Corn		40 TL
+	
+THANK YOU!!	
